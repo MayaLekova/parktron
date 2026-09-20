@@ -1,6 +1,8 @@
-# Nuxt Minimal Starter
+# Parktron
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+"Parking space allocation that is so fair, that no one will complain!"
+
+Based on a minimal NuxtJS server, look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
 
